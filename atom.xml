@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Inside LINZ</title>
+  <subtitle>Adventures of the Inaugural Fellows</subtitle>
+  <link href="/Inside-LINZ/atom.xml" rel="self"/>
+  
+  <link href="http://codeforaotearoa.github.io/Inside-LINZ/"/>
+  <updated>2016-09-15T22:01:33.000Z</updated>
+  <id>http://codeforaotearoa.github.io/Inside-LINZ/</id>
+  
+  <author>
+    <name>Marcus Crane and Vaishnavi Iyer</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Test</title>
+    <link href="http://codeforaotearoa.github.io/Inside-LINZ/2016/09/05/test/"/>
+    <id>http://codeforaotearoa.github.io/Inside-LINZ/2016/09/05/test/</id>
+    <published>2016-09-05T00:00:00.000Z</published>
+    <updated>2016-09-15T22:01:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Testing</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Testing&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Test 2</title>
+    <link href="http://codeforaotearoa.github.io/Inside-LINZ/2016/09/05/test2/"/>
+    <id>http://codeforaotearoa.github.io/Inside-LINZ/2016/09/05/test2/</id>
+    <published>2016-09-05T00:00:00.000Z</published>
+    <updated>2016-09-11T23:33:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is a test post</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;This is a test post&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
