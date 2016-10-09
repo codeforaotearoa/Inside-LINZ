@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Inside LINZ</title>
+  <subtitle>Adventures of the Inaugural Fellows</subtitle>
+  <link href="/Inside-LINZ/atom.xml" rel="self"/>
+  
+  <link href="http://codeforaotearoa.github.io/Inside-LINZ/"/>
+  <updated>2016-10-09T04:17:10.000Z</updated>
+  <id>http://codeforaotearoa.github.io/Inside-LINZ/</id>
+  
+  <author>
+    <name>Marcus Crane and Vaishnavi Iyer</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Ambition</title>
+    <link href="http://codeforaotearoa.github.io/Inside-LINZ/2016/10/09/ambition/"/>
+    <id>http://codeforaotearoa.github.io/Inside-LINZ/2016/10/09/ambition/</id>
+    <published>2016-10-09T01:53:00.000Z</published>
+    <updated>2016-10-09T04:17:10.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Ambition"><a href="#Ambition" class="headerlink" title="Ambition"></a>Ambition</h2><p>Ambition is an interesting topic.</p>
+<p>If you think about it, anything notable was likely classed as ambitious as one point.</p>
+<p>Whether it’s products, companies or ideas, there were two likely outcomes.</p>
+<p>Some things were ambitious, but ultimately, achievable while others were perhaps overly ambitious and failed.</p>
+<p>No matter how you look at it, both types still took a lot of courage, and it wasn’t easy, right?</p>
+<p>Perhaps they were before their time or maybe the execution was a little off. There’s still something to be learned from both types of attempts.</p>
+<p>My point is that being ambitious isn’t easy but it’s better than not trying, right?</p>
+<h2 id="What-does-this-have-to-do-with-Code-for-Aotearoa"><a href="#What-does-this-have-to-do-with-Code-for-Aotearoa" class="headerlink" title="What does this have to do with Code for Aotearoa?"></a>What does this have to do with Code for Aotearoa?</h2><p>So without sugar coating it, we basically want to make a set of tools.</p>
+<p>“There’s nothing wrong with that?”, you might be saying and you’re definitely right!</p>
+<p>I think it just feels like it would be easier to get your average citizen more excited by showing them a shiny, interactive web app than some back end tools that wouldn’t be as tangible.</p>
+<p>I know if I tried to pitch a tool to myself, I’d take the web app anyday but now we’re on the other end of that decision and it’s definitely not fun, haha!</p>
+<p>Such tools would also have to be more ambitious seeing as we’d hope to make them easily adaptable by other departments if they liked the look of them.</p>
+<h2 id="Is-that-achievable-in-3-months"><a href="#Is-that-achievable-in-3-months" class="headerlink" title="Is that achievable in 3 months?"></a>Is that achievable in 3 months?</h2><p>Well, that’s the thing, right? It’s a three month pilot program so we don’t want to promise the world but we do at least want to start something that someone else can pick up once we’re done.</p>
+<p>We didn’t have the luxury of knowing LINZ in depth before hand but now for anyone that follows on with our work, we can brief them, both verbally and with documents, on where LINZ is at, what projects are underway and myriad of other things like “What’s geospatial?”</p>
+<p>Now, while we’ve definitely learnt a lot, finding that niche where we can build something is the tough part. We’re slowly making progress towards where we want to be but unfortunately, these things can take time to get everyone on board.</p>
+<h2 id="Wrap-up-time"><a href="#Wrap-up-time" class="headerlink" title="Wrap up time?"></a>Wrap up time?</h2><p>Yeah, so those were just some of my thoughts about what’s been going on.</p>
+<p>If you’ve been wondering about why we’ve been mostly quiet, there just hasn’t been anything hugely notable we can point to but we’ll get there in time.</p>
+<p>During the first few weeks, it also felt like every idea we came up with was either not a viable fit or was already being worked on by bigger teams, or even companies of higher skilled people than outselves!</p>
+<p>Anywho, we’ll keep on being ambitious and trying to create something that will be useful, hopefully for a long period of time.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Ambition&quot;&gt;&lt;a href=&quot;#Ambition&quot; class=&quot;headerlink&quot; title=&quot;Ambition&quot;&gt;&lt;/a&gt;Ambition&lt;/h2&gt;&lt;p&gt;Ambition is an interesting topic.&lt;/p&gt;
+&lt;p&gt;If yo
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hydrography, or Hey Pal, Stop Launching Missiles From Our Ocean</title>
+    <link href="http://codeforaotearoa.github.io/Inside-LINZ/2016/09/22/hydrography/"/>
+    <id>http://codeforaotearoa.github.io/Inside-LINZ/2016/09/22/hydrography/</id>
+    <published>2016-09-22T07:45:00.000Z</published>
+    <updated>2016-10-09T04:28:16.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Hey-you-look-kinda-tired-Doing-alright-there"><a href="#Hey-you-look-kinda-tired-Doing-alright-there" class="headerlink" title="Hey, you look kinda tired? Doing alright there?"></a>Hey, you look kinda tired? Doing alright there?</h3><p>Oh, me? Yeah, I’ve just had my brain overloaded with all the wonderous services provided by <a href="http://linz.govt.nz" target="_blank" rel="external">Land Information New Zealand</a></p>
+<p><strong><strong>Title card drops from the ceiling</strong></strong></p>
+<p>This is a blog post, not a TV show…</p>
+<h3 id="Oops-wrong-format-haha-So-I-heard-you’ve-started-off-on-this-whole-Code-for-Aotearoa-business-What’s-the-deal-with-that"><a href="#Oops-wrong-format-haha-So-I-heard-you’ve-started-off-on-this-whole-Code-for-Aotearoa-business-What’s-the-deal-with-that" class="headerlink" title="Oops, wrong format, haha! So, I heard you’ve started off on this whole Code for Aotearoa business? What’s the deal with that?"></a>Oops, wrong format, haha! So, I heard you’ve started off on this whole Code for Aotearoa business? What’s the deal with that?</h3><p>So! Before we talk about Code for Aotearoa, let’s learn about Code for All.</p>
+<h3 id="Ah-the-ol’-bait-and-switch"><a href="#Ah-the-ol’-bait-and-switch" class="headerlink" title="Ah, the ol’ bait and switch?"></a>Ah, the ol’ bait and switch?</h3><p>Shush, this is my blog and I’ll write it however I feel like!</p>
+<p><em>ahem</em></p>
+<p>Once upon a time, well, no actually instead of retreading old ground, I’ll just refer you over to the <a href="https://medium.com/code-for-aotearoa/why-code-for-aotearoa-a4c865ff7122#.vhjc5i5wp" target="_blank" rel="external">post</a> that <a href="http://twitter.com/peterjakey" target="_blank" rel="external">Pete</a> wrote last week.</p>
+<h3 id="Cheater"><a href="#Cheater" class="headerlink" title="Cheater"></a>Cheater</h3><p>Well, it’s more efficient I reckon. So, how about I tell you all about LINZ.</p>
+<h3 id="Whoa-there-pal-we’ve-just-started-Maybe-take-it-easy-and-just-tell-me-one-cool-thing-you-learned"><a href="#Whoa-there-pal-we’ve-just-started-Maybe-take-it-easy-and-just-tell-me-one-cool-thing-you-learned" class="headerlink" title="Whoa there pal, we’ve just started! Maybe take it easy and just tell me one cool thing you learned"></a>Whoa there pal, we’ve just started! Maybe take it easy and just tell me one cool thing you learned</h3><p>Hmm, yeah, considering this post is already half a week late, you’re probably right. Weird, it’s like you can almost read my mind.</p>
+<p>Anyway, how do you feel about Hydrography?</p>
+<h3 id="Hydrowhat"><a href="#Hydrowhat" class="headerlink" title="Hydrowhat?"></a>Hydrowhat?</h3><p>Hydrography!</p>
+<p>The study of water bodies, like lakes, rivers and even the ocean.</p>
+<p>It’s such a cool word, huh? Just kinda feels nice to say</p>
+<h3 id="What’s-cool-about-water"><a href="#What’s-cool-about-water" class="headerlink" title="What’s cool about water?"></a>What’s cool about water?</h3><p>The temperature</p>
+<p><a href="http://instantrimshot.com" target="_blank" rel="external"><em>ba dum tiss</em></a></p>
+<p>No but they do a lot of interesting stuff. They’re responsible for mapping the sea. Without that information, you’d have people unaware of the depths and shallows which means a lot of beached ships.</p>
+<p>They also are in charge of the NAVAREA alerts. Psst, ask me “What are NAVAREA alerts? It looks good when you do the big text”</p>
+<h3 id="What-are-NAVAREA-alerts-It-looks-good-when-you-do-the-big-text"><a href="#What-are-NAVAREA-alerts-It-looks-good-when-you-do-the-big-text" class="headerlink" title="What are NAVAREA alerts? It looks good when you do the big text"></a>What are NAVAREA alerts? It looks good when you do the big text</h3><p>Oh, I put my ending quote mark in the wrong place, oops.</p>
+<p>NAVAREAs are basically specific areas that get assigned to a government where it becomes their job to issue warnings for things like weather warnings, loose icebergs and missile launches.</p>
+<h3 id="Missile-Excuse-me"><a href="#Missile-Excuse-me" class="headerlink" title="Missile? Excuse me?"></a>Missile? Excuse me?</h3><p>Yup, there have been a few cases where foreign countries have conducted missile launches in the oceans administered by LINZ.</p>
+<p>Generally they’ll receive an email and if the warning is considered notable then within the short time of 2 hours, the following will happen:</p>
+<ul>
+<li>The team will generate a small piece of text, intended to be beamed out to mariners</li>
+<li>That message is sent to Kordia who will also record a voice over to accompany the text</li>
+<li>Both are beamed up to a satellite where the message is redirected down towards our oceans so that mariners are able to receive the broadcast on their radios and other equipment</li>
+</ul>
+<h3 id="Wow-that’s-actually-really-interesting"><a href="#Wow-that’s-actually-really-interesting" class="headerlink" title="Wow, that’s actually really interesting"></a>Wow, that’s actually really interesting</h3><p>I told you! Keep in mind though that while there are recreational mariners, it’s the big commercial trawlers and what not who get the most use out of the broadcasts.</p>
+<p>Well, that said, there’s actually a lot of things they’re required to carry under law but that’s a different story.</p>
+<p>Hopefully you found this all as facinating as I did!</p>
+<p>Until next week which, well, actually is just this week so double blog posts since mine was so late, haha.</p>
+<p>The first week was all pretty hectic but hopefully we should be able to pick up the slack a bit and get lots of good tweets and that going on!</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;Hey-you-look-kinda-tired-Doing-alright-there&quot;&gt;&lt;a href=&quot;#Hey-you-look-kinda-tired-Doing-alright-there&quot; class=&quot;headerlink&quot; title=&quot;Hey,
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>The World Called LINZ</title>
+    <link href="http://codeforaotearoa.github.io/Inside-LINZ/2016/09/19/the-world-called-linz/"/>
+    <id>http://codeforaotearoa.github.io/Inside-LINZ/2016/09/19/the-world-called-linz/</id>
+    <published>2016-09-19T03:00:00.000Z</published>
+    <updated>2016-09-24T11:45:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="http://linz.govt.nz/" target="_blank" rel="external">Land Information New Zealand</a> or Toitū Te Whenua, popularly known as LINZ, is the government agency responsible for making regulations that govern our land.</p>
+<p>LINZ is also the organisation that has pioneered the push for open data in New Zealand, which they are currently at the forefront of.</p>
+<h2 id="So-who-am-I"><a href="#So-who-am-I" class="headerlink" title="So who am I?"></a>So who am I?</h2><p>Well, dear reader, I’m Vaishnavi - a software developer who along with my other developer friends - Marcus, Pete and Gabby, have joined a pilot program called <a href="http://codeforaotearoa.org" target="_blank" rel="external">Code For Aotearoa</a>. We strongly believe that the keyboard is mightier than the sword and that we are here to change the world.</p>
+<h2 id="What-is-this-Code-for-Aotearoa-now"><a href="#What-is-this-Code-for-Aotearoa-now" class="headerlink" title="What is this Code for Aotearoa now?"></a>What is this Code for Aotearoa now?</h2><p>Code for Aotearoa is a pilot to open new ways through which we cam make meaningful contributions to government.</p>
+<h2 id="8th-September-2016…-the-day-my-world-collided-with-these-two-other-dimensions-Code-for-Aotearoa-and-LINZ…"><a href="#8th-September-2016…-the-day-my-world-collided-with-these-two-other-dimensions-Code-for-Aotearoa-and-LINZ…" class="headerlink" title="8th September 2016… the day my world collided with these two other dimensions - Code for Aotearoa and LINZ…"></a>8th September 2016… the day my world collided with these two other dimensions - Code for Aotearoa and LINZ…</h2><p>The first week at LINZ went by really quick… I had the opportunity to meet a lot of amazing people who have a wealth of knowledge. Just meeting so many interesting people would have been a task in itself, let alone being able to get an insight into their work.</p>
+<p>Like any organisation of people, there’s… a wide range of personalities. Some welcoming and others… could do with a bit of work but perhaps they’ll warm up to us in time. Each meeting has been a learning experience, that’s for sure!</p>
+<h2 id="So-many-meetings-and-a-boatload-of-new-information"><a href="#So-many-meetings-and-a-boatload-of-new-information" class="headerlink" title="So many meetings and a boatload of new information,"></a>So many meetings and a boatload of new information,</h2><p>Both me and Marcus have the daunting task of assimilating the information and then start the second phase of interviews…</p>
+<p>As for LINZ, I can say that they have done a great job of releasing heaps of data, which has made it challenging for us to add value to their current offerings.</p>
+<p>That said, competition is what drives innovation and since that doesn’t apply to LINZ, we hope to instill a bit of friendly competition with the people we meet.</p>
+<p>As for solutions, identifying the pain points of their immediate customers would definitely be a good start.</p>
+<p>Until next week this has been Vai signing off…</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;http://linz.govt.nz/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Land Information New Zealand&lt;/a&gt; or Toitū Te Whenua, popularly known as LIN
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
